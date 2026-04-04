@@ -14,9 +14,9 @@ LED
 
 🔌 Connection
 
-Pin 13 → LED long leg (anode)
+Pin 13 → resistor → LED long leg (anode)
 
-GND → resistor → LED short leg (cathode)
+GND → LED short leg (cathode)
 
 ⚙️ Working Principle
 
