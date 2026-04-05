@@ -1,9 +1,15 @@
 In this project, I am using a Potentiometer to control the brightness of an LED through PWM (Pulse Width Modulation). This allows us to transition from a simple "on/off" state to a smooth range of light intensity. 🚀
+
 🛠️ Hardware Components
+
 🤖 Arduino Board (Uno, Nano, etc.)
+
 💡 LED (Any color)
+
 ⚡ 220 Ohm Resistor
+
 🕹️ 10k Potentiometer
+
 🔌 Breadboard & Jumper Wires
 🔌 Circuit Connections
 
