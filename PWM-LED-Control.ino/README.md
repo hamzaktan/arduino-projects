@@ -2,6 +2,7 @@ In this project, I am using a Potentiometer to control the brightness of an LED 
 
 🛠️ Hardware Components
 
+
 🤖 Arduino Board (Uno, Nano, etc.)
 
 💡 LED (Any color)
