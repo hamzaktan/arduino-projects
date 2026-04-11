@@ -38,4 +38,12 @@ Each color (Red, Green, Blue) is controlled separately, allowing different color
 - Example:
   - Red + Green → Yellow  
   - Red + Blue → Purple  
-  - All → White  
+  - All → White
+  - 
+
+ ## 🎥 Demo Video
+
+Watch the project in action:
+https://youtube.com/shorts/hQzmnMkPMpI?si=HJfjpByB3m2qXKBe
+
+
