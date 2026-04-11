@@ -10,11 +10,11 @@ void loop(){
   Serial.println(light);
   delay(50);
 
-  if(light>300){
+  if(light>700){
     digitalWrite(led1,LOW);
 
   }
-  if(light<200){
+  if(light<700){
     digitalWrite(led1,HIGH);
 
   }
