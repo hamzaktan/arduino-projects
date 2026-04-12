@@ -47,4 +47,9 @@ This project introduces analog input reading and basic decision-making with Ardu
 - The LDR reads light intensity as an analog value (0–1023)
 - In dark environments → value decreases → LED turns ON  
 - In bright environments → value increases → LED turns OFF  
-- The threshold value determines switching point  
+- The threshold value determines switching point
+
+## 🎥 Demo Video
+
+Watch the project in action:  
+https://youtube.com/shorts/E2hc4G-yhKk?si=KTVgjBxroJaRZqbQ
